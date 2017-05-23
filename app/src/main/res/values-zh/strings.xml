@@ -10,4 +10,7 @@
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_books_fragment">Hello 图书 fragment</string>
     <string name="hello_movies_fragment">Hello 电影 fragment</string>
+    <string name="movies_title">热映电影</string>
+    <string name="books_title">畅销图书</string>
+    <string name="rating_zero">暂无评分</string>
 </resources>
