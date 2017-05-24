@@ -1,8 +1,10 @@
-package io.github.weizc.idouban.model;
+package io.github.weizc.idouban.beans;
 
 import com.google.gson.annotations.SerializedName;
 
 import java.util.List;
+
+import io.github.weizc.idouban.beans.Movie;
 
 /**
  * Created by Vzc on 2017/5/22.
